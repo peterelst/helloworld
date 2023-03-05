@@ -1,0 +1,2 @@
+when H=""then set H="Hello world!"put H
+
